@@ -2,7 +2,7 @@
 /**
  * binary_tree_preorder -  creates a binary tree node.
  *
- * @tree: pointer to the parent node of the node to create.
+ * @tree: pointer to the root node of the node to traverse.
  * @func: pointer to the parent node of the node to create.
  *
  * Return: pointer to the new node, or NULL on failure

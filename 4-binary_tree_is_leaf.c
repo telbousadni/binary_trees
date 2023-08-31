@@ -2,7 +2,7 @@
 /**
  * binary_tree_is_leaf -  creates a binary tree node.
  *
- * @node: pointer to the parent node of the node to create.
+ * @node: a pointer to the node to check
  *
  * Return: pointer to the new node, or NULL on failure
  */
